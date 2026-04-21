@@ -14,7 +14,7 @@ print("Pi" pi)
 print("Me gusta python?", gusta_python)
 
 #Obtener valores introducidos por el usuario
-nombre pelicula py= input("Como se llama tu pelicula favorita?")
+nombre pelicula = input("Como se llama tu pelicula favorita?")
 
 director de la pelicula = input ("Quién fue el director de la pelicula?")
 
