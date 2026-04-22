@@ -7,5 +7,5 @@ frase_minusculas = frase.lower()
 print (frase)
 print("Longitud, longitud")
 print("frase_mayuscula")
-print("frase_minisculas")
+print("frase_minusculas")
 
