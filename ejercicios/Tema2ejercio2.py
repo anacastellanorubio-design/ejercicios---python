@@ -16,8 +16,8 @@ cantidad_gorra = int (input ("¿Cuántas gorras quiere? "))
 #Calcula el total de la Compra
 total_camiseta = camiseta * cantidad_camiseta
 total_sudadera = sudadera * cantidad_sudadera
-total_gorras = gorra * cantidad_gorra
-total compra = total_camiseta + total_sudadera + total_gorra
+total_gorra = gorra * cantidad_gorra
+total_compra = total_camiseta + total_sudadera + total_gorra
 
 #Añadir 21% IVA al total de la Compra 
 total_compra_IVA = total_compra +((total_compra * 21)/100)
