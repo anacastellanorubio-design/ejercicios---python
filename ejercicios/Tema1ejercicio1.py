@@ -10,15 +10,15 @@ gusta_python = True
 #Imprimmir variables
 print("Nombre", nombre)
 print("Edad", edad)
-print("Pi" pi)
+print("Pi", pi)
 print("Me gusta python?", gusta_python)
 
 #Obtener valores introducidos por el usuario
-nombre pelicula = input("Como se llama tu pelicula favorita?")
+nombre_película = input("Como se llama tu película favorita?")
 
-director de la pelicula = input ("Quién fue el director de la pelicula?")
+director_película= input ("Quién fue el director de la película?")
 
-año de lanzamiento = input ("Cual fue el año de lanzamiento?")
+año_lanzamiento = input ("Cual fue el año de lanzamiento?")
 
 género = input ("A que genero pertenece?")
 
